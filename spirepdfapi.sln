@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spirepdfapi", "spirepdfapi.csproj", "{3FEDCB51-FBAC-40B1-A34B-2E6D50B48AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEDCB51-FBAC-40B1-A34B-2E6D50B48AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEDCB51-FBAC-40B1-A34B-2E6D50B48AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEDCB51-FBAC-40B1-A34B-2E6D50B48AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEDCB51-FBAC-40B1-A34B-2E6D50B48AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431775E8-64E2-4D68-B21A-C3A41851BE6A}
+	EndGlobalSection
+EndGlobal
